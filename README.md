@@ -87,9 +87,6 @@ lib/
    - Cost analysis
    - Performance metrics
 
-### Video Demo
-[Add your video demo link here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
