@@ -72,7 +72,7 @@ lib/
   <img src="assets/screenshots/Screen-3.jpg" width="300" alt="Composition Management">
   <img src="assets/screenshots/Screen-4.jpg" width="300" alt="Manufacturing Log">
   <img src="assets/screenshots/Screen-5.jpg" width="300" alt="Analysis">
-  <img src="assets/screenshots/Screen-6-B.jpg" width="300" alt="Additional Features">
+  <img src="assets/screenshots/Screen-5-2.jpg" width="300" alt="Additional Features">
 </div>
 
 #### Dark Mode Views
