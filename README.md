@@ -64,7 +64,23 @@ lib/
 
 ### Screenshots
 
-[Add your screenshots here]
+#### Home Screen
+![Home Screen](assets/screenshots/Screen-1.jpg)
+
+#### Material Management
+![Material Management](assets/screenshots/Screen-2.jpg)
+
+#### Composition Management
+![Composition Management](assets/screenshots/Screen-3.jpg)
+
+#### Manufacturing Log
+![Manufacturing Log](assets/screenshots/Screen-4.jpg)
+
+#### Analysis
+![Analysis](assets/screenshots/Screen-5.jpg)
+
+#### Additional Features
+![Additional Features](assets/screenshots/Screen-6-B.jpg)
 
 ### Features Demo
 1. **Material Management**
