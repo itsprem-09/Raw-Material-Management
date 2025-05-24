@@ -64,23 +64,26 @@ lib/
 
 ### Screenshots
 
-#### Home Screen
-![Home Screen](assets/screenshots/Screen-1.jpg)
+#### Main Features
 
-#### Material Management
-![Material Management](assets/screenshots/Screen-2.jpg)
+<div align="center">
+  <img src="assets/screenshots/Screen-1.jpg" width="300" alt="Home Screen">
+  <img src="assets/screenshots/Screen-2.jpg" width="300" alt="Material Management">
+  <img src="assets/screenshots/Screen-3.jpg" width="300" alt="Composition Management">
+  <img src="assets/screenshots/Screen-4.jpg" width="300" alt="Manufacturing Log">
+  <img src="assets/screenshots/Screen-5.jpg" width="300" alt="Analysis">
+  <img src="assets/screenshots/Screen-6-B.jpg" width="300" alt="Additional Features">
+</div>
 
-#### Composition Management
-![Composition Management](assets/screenshots/Screen-3.jpg)
+#### Dark Mode Views
 
-#### Manufacturing Log
-![Manufacturing Log](assets/screenshots/Screen-4.jpg)
-
-#### Analysis
-![Analysis](assets/screenshots/Screen-5.jpg)
-
-#### Additional Features
-![Additional Features](assets/screenshots/Screen-6-B.jpg)
+<div align="center">
+  <img src="assets/screenshots/Screen-1-B.jpg" width="300" alt="Home Screen Dark">
+  <img src="assets/screenshots/Screen-2-B.jpg" width="300" alt="Material Management Dark">
+  <img src="assets/screenshots/Screen-3-B.jpg" width="300" alt="Composition Management Dark">
+  <img src="assets/screenshots/Screen-4-B.jpg" width="300" alt="Manufacturing Log Dark">
+  <img src="assets/screenshots/Screen-5-B.jpg" width="300" alt="Analysis Dark">
+</div>
 
 ### Features Demo
 1. **Material Management**
