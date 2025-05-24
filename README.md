@@ -83,6 +83,7 @@ lib/
   <img src="assets/screenshots/Screen-3-B.jpg" width="300" alt="Composition Management Dark">
   <img src="assets/screenshots/Screen-4-B.jpg" width="300" alt="Manufacturing Log Dark">
   <img src="assets/screenshots/Screen-5-B.jpg" width="300" alt="Analysis Dark">
+   <img src="assets/screenshots/Screen-6-B.jpg" width="300" alt="Analysis Dark">
 </div>
 
 ### Features Demo
